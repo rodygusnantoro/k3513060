@@ -1,6 +1,7 @@
 <?php
 //Github Sukses
 //Khrisna Ganteng
+//Khrisna sok ngide
 
 /**
  * CodeIgniter
